@@ -7,7 +7,7 @@ class Cat
   def cat_meow
   @cat_meow
 end
-def cat_meow=(cat_meow)
+def cat.meow=(cat.meow)
   @cat_meow
   end
   
